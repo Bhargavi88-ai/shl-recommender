@@ -1,0 +1,524 @@
+[
+  {
+    "name": "Verify Verbal Reasoning",
+    "url": "https://www.shl.com/solutions/products/assessments/cognitive-assessments/verify-verbal-reasoning/",
+    "test_type": "A",
+    "test_type_labels": ["Ability & Aptitude"],
+    "remote_testing": true,
+    "adaptive_irt": true,
+    "description": "Measures a candidate's ability to understand and critically evaluate written information. Suitable for graduate and managerial roles requiring strong language comprehension."
+  },
+  {
+    "name": "Verify Numerical Reasoning",
+    "url": "https://www.shl.com/solutions/products/assessments/cognitive-assessments/verify-numerical-reasoning/",
+    "test_type": "A",
+    "test_type_labels": ["Ability & Aptitude"],
+    "remote_testing": true,
+    "adaptive_irt": true,
+    "description": "Assesses the ability to make correct decisions or inferences from numerical and statistical data. Ideal for roles requiring quantitative reasoning."
+  },
+  {
+    "name": "Verify Inductive Reasoning",
+    "url": "https://www.shl.com/solutions/products/assessments/cognitive-assessments/verify-inductive-reasoning/",
+    "test_type": "A",
+    "test_type_labels": ["Ability & Aptitude"],
+    "remote_testing": true,
+    "adaptive_irt": true,
+    "description": "Measures the ability to identify patterns and rules within abstract diagrammatic information. Relevant for roles requiring complex problem-solving and innovation."
+  },
+  {
+    "name": "Verify Deductive Reasoning",
+    "url": "https://www.shl.com/solutions/products/assessments/cognitive-assessments/verify-deductive-reasoning/",
+    "test_type": "A",
+    "test_type_labels": ["Ability & Aptitude"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Evaluates the ability to draw logical conclusions from written information. Measures structured, systematic thinking relevant to analytical roles."
+  },
+  {
+    "name": "Verify Mechanical Comprehension",
+    "url": "https://www.shl.com/solutions/products/assessments/cognitive-assessments/verify-mechanical-comprehension/",
+    "test_type": "A",
+    "test_type_labels": ["Ability & Aptitude"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Assesses understanding of mechanical and physical concepts. Suited for engineering, maintenance, and technical trade roles."
+  },
+  {
+    "name": "Verify Spatial Reasoning",
+    "url": "https://www.shl.com/solutions/products/assessments/cognitive-assessments/verify-spatial-reasoning/",
+    "test_type": "A",
+    "test_type_labels": ["Ability & Aptitude"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Measures the ability to visualise and mentally manipulate 2D and 3D shapes. Relevant for engineering, design, and architecture roles."
+  },
+  {
+    "name": "Verify Data Checking",
+    "url": "https://www.shl.com/solutions/products/assessments/cognitive-assessments/verify-data-checking/",
+    "test_type": "A",
+    "test_type_labels": ["Ability & Aptitude"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Assesses speed and accuracy when checking data against given criteria. Used for clerical and data-entry roles."
+  },
+  {
+    "name": "Verify Checking",
+    "url": "https://www.shl.com/solutions/products/assessments/cognitive-assessments/verify-checking/",
+    "test_type": "A",
+    "test_type_labels": ["Ability & Aptitude"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Measures accuracy and speed when checking information. Relevant for administrative and operational roles requiring attention to detail."
+  },
+  {
+    "name": "OPQ32r",
+    "url": "https://www.shl.com/solutions/products/assessments/personality-assessment/opq/",
+    "test_type": "P",
+    "test_type_labels": ["Personality & Behavior"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "The Occupational Personality Questionnaire (OPQ32r) measures 32 personality characteristics that affect workplace performance. Used for selection, development and succession planning at all levels."
+  },
+  {
+    "name": "OPQ32n",
+    "url": "https://www.shl.com/solutions/products/assessments/personality-assessment/opq/",
+    "test_type": "P",
+    "test_type_labels": ["Personality & Behavior"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Normative version of the Occupational Personality Questionnaire. Provides a detailed profile of an individual's preferred behavioral style in the workplace."
+  },
+  {
+    "name": "MQ (Motivation Questionnaire)",
+    "url": "https://www.shl.com/solutions/products/assessments/personality-assessment/motivation-questionnaire-mq/",
+    "test_type": "P",
+    "test_type_labels": ["Personality & Behavior"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Assesses the conditions that increase or decrease an individual's motivation in the workplace. Helps understand what drives and engages candidates."
+  },
+  {
+    "name": "General Ability Test",
+    "url": "https://www.shl.com/solutions/products/assessments/cognitive-assessments/",
+    "test_type": "A",
+    "test_type_labels": ["Ability & Aptitude"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Broad measure of cognitive ability covering verbal, numerical and abstract reasoning. Suitable for a wide range of job levels."
+  },
+  {
+    "name": "Graduate Managerial Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/cognitive-assessments/",
+    "test_type": "A",
+    "test_type_labels": ["Ability & Aptitude"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Comprehensive cognitive assessment designed for graduate and managerial level positions requiring complex reasoning and analytical thinking."
+  },
+  {
+    "name": "Critical Reasoning Test Battery (CRTB2)",
+    "url": "https://www.shl.com/solutions/products/assessments/cognitive-assessments/",
+    "test_type": "A",
+    "test_type_labels": ["Ability & Aptitude"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Measures verbal and numerical critical reasoning for managerial and professional roles. Tests ability to evaluate written arguments and numerical data."
+  },
+  {
+    "name": "Watson Glaser Critical Thinking Appraisal",
+    "url": "https://www.shl.com/solutions/products/assessments/cognitive-assessments/watson-glaser/",
+    "test_type": "A",
+    "test_type_labels": ["Ability & Aptitude"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Measures ability to distinguish between facts and inferences, evaluate arguments, and draw logical conclusions. Widely used for legal, financial, and leadership roles."
+  },
+  {
+    "name": "Situational Judgement Test",
+    "url": "https://www.shl.com/solutions/products/assessments/situational-judgement-tests/",
+    "test_type": "B",
+    "test_type_labels": ["Biodata & Situational Judgement"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Presents realistic workplace scenarios and assesses how candidates respond. Measures practical judgement and job-relevant behaviors."
+  },
+  {
+    "name": "Customer Contact Styles Questionnaire",
+    "url": "https://www.shl.com/solutions/products/assessments/personality-assessment/",
+    "test_type": "P",
+    "test_type_labels": ["Personality & Behavior"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Assesses behavioral preferences relevant to customer-facing roles. Useful for customer service, sales, and call centre positions."
+  },
+  {
+    "name": "Sales Aptitude Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/",
+    "test_type": "B, P",
+    "test_type_labels": ["Biodata & Situational Judgement", "Personality & Behavior"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Evaluates a candidate's natural aptitude for sales roles including drive, persuasion, resilience, and customer orientation."
+  },
+  {
+    "name": "Java (Advanced Level)",
+    "url": "https://www.shl.com/solutions/products/assessments/technical-skills/java/",
+    "test_type": "K",
+    "test_type_labels": ["Knowledge & Skills"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Advanced-level Java programming assessment covering OOP, data structures, concurrency, design patterns, and Java EE concepts."
+  },
+  {
+    "name": "Java 8 (New)",
+    "url": "https://www.shl.com/solutions/products/assessments/technical-skills/java/",
+    "test_type": "K",
+    "test_type_labels": ["Knowledge & Skills"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Assesses Java 8 features including lambdas, streams, Optional, CompletableFuture, and functional programming concepts."
+  },
+  {
+    "name": "Python (New)",
+    "url": "https://www.shl.com/solutions/products/assessments/technical-skills/python/",
+    "test_type": "K",
+    "test_type_labels": ["Knowledge & Skills"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Comprehensive Python assessment covering language fundamentals, data structures, OOP, standard library, and Pythonic coding practices."
+  },
+  {
+    "name": "JavaScript (New)",
+    "url": "https://www.shl.com/solutions/products/assessments/technical-skills/javascript/",
+    "test_type": "K",
+    "test_type_labels": ["Knowledge & Skills"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Evaluates JavaScript proficiency including ES6+ features, DOM manipulation, async programming, closures, and modern JS patterns."
+  },
+  {
+    "name": "SQL (New)",
+    "url": "https://www.shl.com/solutions/products/assessments/technical-skills/sql/",
+    "test_type": "K",
+    "test_type_labels": ["Knowledge & Skills"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Tests SQL knowledge including queries, joins, subqueries, aggregations, stored procedures, and database design concepts."
+  },
+  {
+    "name": ".NET (C#) (New)",
+    "url": "https://www.shl.com/solutions/products/assessments/technical-skills/",
+    "test_type": "K",
+    "test_type_labels": ["Knowledge & Skills"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Assesses .NET and C# programming skills including object-oriented concepts, LINQ, async/await, and .NET framework knowledge."
+  },
+  {
+    "name": "C++ (New)",
+    "url": "https://www.shl.com/solutions/products/assessments/technical-skills/",
+    "test_type": "K",
+    "test_type_labels": ["Knowledge & Skills"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Evaluates C++ proficiency covering STL, memory management, templates, OOP, and modern C++11/14/17 features."
+  },
+  {
+    "name": "React (New)",
+    "url": "https://www.shl.com/solutions/products/assessments/technical-skills/",
+    "test_type": "K",
+    "test_type_labels": ["Knowledge & Skills"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Assesses React.js skills including hooks, component lifecycle, state management, JSX, and React ecosystem knowledge."
+  },
+  {
+    "name": "Angular",
+    "url": "https://www.shl.com/solutions/products/assessments/technical-skills/",
+    "test_type": "K",
+    "test_type_labels": ["Knowledge & Skills"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Tests Angular framework knowledge including components, services, dependency injection, routing, and RxJS."
+  },
+  {
+    "name": "Node.js (New)",
+    "url": "https://www.shl.com/solutions/products/assessments/technical-skills/",
+    "test_type": "K",
+    "test_type_labels": ["Knowledge & Skills"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Evaluates Node.js skills including event loop, async patterns, Express.js, npm ecosystem, and server-side JavaScript."
+  },
+  {
+    "name": "Machine Learning",
+    "url": "https://www.shl.com/solutions/products/assessments/technical-skills/",
+    "test_type": "K",
+    "test_type_labels": ["Knowledge & Skills"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Tests machine learning concepts including supervised/unsupervised learning, model evaluation, feature engineering, and algorithm selection."
+  },
+  {
+    "name": "Data Science",
+    "url": "https://www.shl.com/solutions/products/assessments/technical-skills/",
+    "test_type": "K",
+    "test_type_labels": ["Knowledge & Skills"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Comprehensive data science assessment covering statistics, Python/R, data wrangling, visualization, and machine learning fundamentals."
+  },
+  {
+    "name": "Agile Software Development",
+    "url": "https://www.shl.com/solutions/products/assessments/technical-skills/",
+    "test_type": "K",
+    "test_type_labels": ["Knowledge & Skills"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Evaluates understanding of Agile principles, Scrum, Kanban, sprint planning, retrospectives, and agile team dynamics."
+  },
+  {
+    "name": "Project Management",
+    "url": "https://www.shl.com/solutions/products/assessments/technical-skills/",
+    "test_type": "K",
+    "test_type_labels": ["Knowledge & Skills"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Assesses project management knowledge covering planning, risk management, budgeting, stakeholder management, and PMI/PRINCE2 frameworks."
+  },
+  {
+    "name": "Business Analysis",
+    "url": "https://www.shl.com/solutions/products/assessments/technical-skills/",
+    "test_type": "K",
+    "test_type_labels": ["Knowledge & Skills"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Tests business analysis skills including requirements gathering, process modeling, use cases, and stakeholder communication."
+  },
+  {
+    "name": "Financial Acumen",
+    "url": "https://www.shl.com/solutions/products/assessments/technical-skills/",
+    "test_type": "K",
+    "test_type_labels": ["Knowledge & Skills"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Evaluates financial literacy including reading P&L statements, balance sheets, cash flow, and fundamental financial analysis."
+  },
+  {
+    "name": "Workplace Safety",
+    "url": "https://www.shl.com/solutions/products/assessments/",
+    "test_type": "K",
+    "test_type_labels": ["Knowledge & Skills"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Assesses knowledge of health and safety regulations, risk assessment, hazard identification, and safe working practices."
+  },
+  {
+    "name": "Entry Level Customer Service",
+    "url": "https://www.shl.com/solutions/products/assessments/",
+    "test_type": "B",
+    "test_type_labels": ["Biodata & Situational Judgement"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Situational judgement and aptitude test for entry-level customer service roles. Measures service orientation, problem-solving, and communication."
+  },
+  {
+    "name": "Managerial and Professional Learning Styles Questionnaire",
+    "url": "https://www.shl.com/solutions/products/assessments/personality-assessment/",
+    "test_type": "D",
+    "test_type_labels": ["Development & 360"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Explores preferred learning approaches to support personal development planning for managers and professionals."
+  },
+  {
+    "name": "Leadership Report",
+    "url": "https://www.shl.com/solutions/products/assessments/personality-assessment/opq/",
+    "test_type": "P",
+    "test_type_labels": ["Personality & Behavior"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Derived from OPQ32, this report profiles leadership potential across key dimensions including strategic thinking, execution, and people skills."
+  },
+  {
+    "name": "Universal Competency Framework (UCF)",
+    "url": "https://www.shl.com/solutions/products/assessments/competency-based-assessments/",
+    "test_type": "C",
+    "test_type_labels": ["Competencies"],
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "description": "SHL's competency framework linking personality traits to 8 universal competencies and 20 specific competencies relevant for selection and development."
+  },
+  {
+    "name": "Occupational Personality Questionnaire 360",
+    "url": "https://www.shl.com/solutions/products/assessments/360-feedback/",
+    "test_type": "D",
+    "test_type_labels": ["Development & 360"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "360-degree feedback instrument based on OPQ competencies. Gathers multi-rater feedback for individual development planning."
+  },
+  {
+    "name": "Call Center Simulation",
+    "url": "https://www.shl.com/solutions/products/assessments/",
+    "test_type": "E",
+    "test_type_labels": ["Assessment Exercises"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Simulates real call center tasks to assess candidate ability to handle customer queries, follow procedures, and multitask effectively."
+  },
+  {
+    "name": "Personality-based Emotional Intelligence",
+    "url": "https://www.shl.com/solutions/products/assessments/personality-assessment/",
+    "test_type": "P",
+    "test_type_labels": ["Personality & Behavior"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Measures emotional intelligence dimensions including self-awareness, empathy, and social effectiveness in the workplace."
+  },
+  {
+    "name": "Remote Worker Profiling",
+    "url": "https://www.shl.com/solutions/products/assessments/",
+    "test_type": "P, B",
+    "test_type_labels": ["Personality & Behavior", "Biodata & Situational Judgement"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Assesses a candidate's suitability and readiness for remote or hybrid work environments, covering self-management, communication, and autonomy."
+  },
+  {
+    "name": "Administrative Professional",
+    "url": "https://www.shl.com/solutions/products/assessments/",
+    "test_type": "K, A",
+    "test_type_labels": ["Knowledge & Skills", "Ability & Aptitude"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Tests skills and abilities relevant to administrative and support roles including data accuracy, written communication, and task prioritization."
+  },
+  {
+    "name": "Resilience Questionnaire",
+    "url": "https://www.shl.com/solutions/products/assessments/personality-assessment/",
+    "test_type": "P",
+    "test_type_labels": ["Personality & Behavior"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Assesses ability to deal with pressure, setbacks, and change. Useful for high-pressure roles and identifying burnout risk."
+  },
+  {
+    "name": "SHL Coding Pro - Python",
+    "url": "https://www.shl.com/solutions/products/assessments/technical-skills/",
+    "test_type": "K",
+    "test_type_labels": ["Knowledge & Skills"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Practical coding simulation for Python developers. Candidates write and debug real code to assess hands-on programming ability."
+  },
+  {
+    "name": "SHL Coding Pro - Java",
+    "url": "https://www.shl.com/solutions/products/assessments/technical-skills/",
+    "test_type": "K",
+    "test_type_labels": ["Knowledge & Skills"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Practical coding simulation for Java developers. Tests real-world Java programming including debugging, refactoring, and algorithm implementation."
+  },
+  {
+    "name": "SHL Coding Pro - JavaScript",
+    "url": "https://www.shl.com/solutions/products/assessments/technical-skills/",
+    "test_type": "K",
+    "test_type_labels": ["Knowledge & Skills"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Hands-on JavaScript coding assessment where candidates solve real problems to demonstrate front-end and full-stack development skills."
+  },
+  {
+    "name": "Transactional Manager Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/",
+    "test_type": "A, P",
+    "test_type_labels": ["Ability & Aptitude", "Personality & Behavior"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Comprehensive assessment for frontline and transactional managers combining cognitive ability and personality measurement."
+  },
+  {
+    "name": "Sales Representative Solution",
+    "url": "https://www.shl.com/solutions/products/assessments/",
+    "test_type": "B, P",
+    "test_type_labels": ["Biodata & Situational Judgement", "Personality & Behavior"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Assessment battery for sales representative roles covering sales aptitude, personality, and situational judgement scenarios."
+  },
+  {
+    "name": "Verbal Ability",
+    "url": "https://www.shl.com/solutions/products/assessments/cognitive-assessments/",
+    "test_type": "A",
+    "test_type_labels": ["Ability & Aptitude"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Tests language comprehension, grammar, and vocabulary. Suitable for roles requiring strong written and verbal communication."
+  },
+  {
+    "name": "Numerical Ability",
+    "url": "https://www.shl.com/solutions/products/assessments/cognitive-assessments/",
+    "test_type": "A",
+    "test_type_labels": ["Ability & Aptitude"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Tests basic to intermediate numerical skills including arithmetic, percentages, ratios, and interpretation of charts."
+  },
+  {
+    "name": "Entry Level Cognitive Battery",
+    "url": "https://www.shl.com/solutions/products/assessments/cognitive-assessments/",
+    "test_type": "A",
+    "test_type_labels": ["Ability & Aptitude"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Designed for entry-level and operational roles. Measures basic cognitive skills required for clerical, manufacturing, and service jobs."
+  },
+  {
+    "name": "Cybersecurity Fundamentals",
+    "url": "https://www.shl.com/solutions/products/assessments/technical-skills/",
+    "test_type": "K",
+    "test_type_labels": ["Knowledge & Skills"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Tests foundational cybersecurity knowledge including threats, vulnerabilities, network security, encryption, and security policies."
+  },
+  {
+    "name": "DevOps (New)",
+    "url": "https://www.shl.com/solutions/products/assessments/technical-skills/",
+    "test_type": "K",
+    "test_type_labels": ["Knowledge & Skills"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Evaluates DevOps knowledge covering CI/CD pipelines, containerization (Docker/Kubernetes), infrastructure as code, and monitoring."
+  },
+  {
+    "name": "Cloud Computing (AWS)",
+    "url": "https://www.shl.com/solutions/products/assessments/technical-skills/",
+    "test_type": "K",
+    "test_type_labels": ["Knowledge & Skills"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Tests knowledge of Amazon Web Services including compute, storage, networking, security, and cloud architecture best practices."
+  },
+  {
+    "name": "Service Desk Analyst",
+    "url": "https://www.shl.com/solutions/products/assessments/",
+    "test_type": "K, B",
+    "test_type_labels": ["Knowledge & Skills", "Biodata & Situational Judgement"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Assesses IT support knowledge combined with situational judgement for service desk and helpdesk analyst roles."
+  },
+  {
+    "name": "Global Skills Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/",
+    "test_type": "A, K",
+    "test_type_labels": ["Ability & Aptitude", "Knowledge & Skills"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Broad assessment measuring core workplace skills across cognitive ability, professional knowledge, and behavioral competencies."
+  }
+]
